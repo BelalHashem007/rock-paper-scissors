@@ -1,3 +1,3 @@
 Project rock-paper-scissors
 
-making a rock-paper-scissors game using javascript from the console only.
+making a simple rock-paper-scissors game using javascript.
